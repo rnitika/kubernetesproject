@@ -1,5 +1,5 @@
 FROM centos:7.9.2009
-MAINTAINER mohammadsohail009@gmail.com
+MAINTAINER nitika
 RUN yum install -y httpd \
  zip \
  unzip 
